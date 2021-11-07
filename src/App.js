@@ -11,7 +11,7 @@ import PlaysPage from "./pages/PlaysPage";
 
 axios.defaults.baseURL = "https://api.themoviedb.org/3";
 axios.defaults.params= {};
-axios.defaults.params['api_key'] = ;
+axios.defaults.params['api_key'] = "c2a3e8deba2b839fb4c9b0985df424aa";
 
 
 function App() {
